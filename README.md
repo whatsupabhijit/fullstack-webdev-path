@@ -11,7 +11,7 @@
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 | WIP | Course | Learn [Git](https://try.github.io/levels/1/challenges/1)        |   |    |
 |   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/)              |   |    |
-|   | Course | Learn flexbox from [Flexboxfroggy](http://flexboxfroggy.com/)     |   |    |
+| Done  | Course | Learn flexbox from [Flexboxfroggy](http://flexboxfroggy.com/)     |   |    |
 |   | Project| Create a similar site of FlexboxFroggy above                      |   |    |
 |   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
