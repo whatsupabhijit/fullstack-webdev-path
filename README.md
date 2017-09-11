@@ -9,13 +9,13 @@
 |  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
 |  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) or Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-|  | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |   |    |
+| WIP | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |    |    |
 |   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
-|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+| Done | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Course | Learn DOM manipulation |   |    |
 |  | Project | Make a todo list webapp |   |    |
 |   | Course | Learn AJAX |   |    |
@@ -25,7 +25,7 @@
 |   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
 |   | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) | 
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
-|   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+| Done  | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
 |   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
 |   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
